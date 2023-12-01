@@ -1,0 +1,48 @@
+
+
+.wrapper{
+    align-items: center; 
+    text-align: center;
+    justify-content: center;
+    background-color:lightgray;
+   
+}
+.photo{
+    display: inline-block;
+    margin: 30px;
+}
+.photo_header{
+    display: inline-block;
+    text-align: center;
+    align-items: center;
+    background-color: white; 
+    width: 600px;  
+    height: 50px
+    
+}
+.photo_title{
+    font-weight: bold;
+    position: relative;
+    text-align: start;
+}
+.photo_number{
+    text-align: end;
+    color: lightgrey;
+    position: relative;
+    left: 0px;
+    bottom: 30px
+   
+}
+h1{
+    font-weight: bold;
+    background-color: white;
+    text-align: center;
+}
+img{
+    width: 600px;
+}
+.photofooter{
+    width: 600px;
+    background-color: white;
+    display: inline-block;
+}
